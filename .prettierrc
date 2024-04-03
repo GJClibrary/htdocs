@@ -1,0 +1,17 @@
+{
+    "singleQuote": true,
+    "semi": false,
+    "tabWidth": 4,
+    "printWidth": 80,
+    "overrides": [
+      {
+        "files": "*.php",
+        "options": {
+          "parser": "php",
+          "singleQuote": false,
+          "semi": true
+        }
+      }
+    ]
+  }
+  

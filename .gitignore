@@ -1,0 +1,7 @@
+# Ignore Composer vendor directory
+/vendor/
+
+# Ignore Composer lock file
+/composer.lock
+
+.env
