@@ -62,6 +62,7 @@ thumbs.db
 *.tar
 *.tgz
 *.gz
+.env
 
 
 ### WordPress ###
