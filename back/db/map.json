@@ -1,0 +1,20 @@
+{
+	"dbName":{
+		"users":{
+			"id":{"type":"key"},
+			"email":{"type":"string"},
+			"password":{"type":"string"},
+			"password_reset":{"type":"string"},
+			"first_name":{"type":"string"},
+			"last_name":{"type":"string"},
+			"password":{"type":"string"},
+			"password_reset":{"type":"string"}
+		},
+		"pages":{
+			"id":{"type":"key"},
+			"name":{"type":"string"},
+			"description":{"type":"string"},
+			"views":{"type":"int"}
+		}
+	}
+}
